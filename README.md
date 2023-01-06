@@ -1,7 +1,5 @@
 # MATLAB Toolboxes of High Dimensional Model Representation (HDMR) with Uncorrelated and/or Correlated Input Variables
 
-Simple overview of use/purpose.
-
 ## Description
 
 We provide two MATLAB toolboxes, 'MATLAB_code_HDMR_V1.0' and 'MATLAB_code_HDMR_EXT_V1.0', for global sensitivity analysis (GSA) with uncorrelated and/or correlated input variables. Examples are included in both toolboxes. 
